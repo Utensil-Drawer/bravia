@@ -1,5 +1,7 @@
 # Sony BRAVIA
 
+**This is a fork of [@seydx/bravia](https://github.com/seydx/bravia) with the IIRC endpoint changed from `/sony/iirc` to `/sony/IIRC`. This fixes IIRC requests on older Sony Bravia TVs.**
+
 Node.js module for discovering and controlling Sony BRAVIA Android TVs. This module allows you retrieve all the available service protocol API methods and invoke any of them. All methods return a [Promise](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise).
 
 ## Setup
