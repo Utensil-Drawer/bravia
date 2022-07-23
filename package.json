@@ -1,7 +1,7 @@
 {
   "name": "@jakuj/bravia-kdl",
   "description": "Node.js module for discovering and controlling Sony BRAVIA Android TVs",
-  "version": "2.0.0-beta.21",
+  "version": "2.0.0",
   "keywords": [
     "sony",
     "bravia",
